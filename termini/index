@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="index,follow" />
+  <meta name="description" content="Termini di servizio e condizioni di utilizzo della piattaforma Scubaseek." />
+  <title>Termini di servizio | Scubaseek</title>
+  <style>
+    :root{--navy:#08315b;--navy2:#34516d;--coral:#ed7f75;--text:#344054;--muted:#667085;--bg:#f5f8fb;--card:#fff;--border:#e4e7ec}
+    *{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--text);background:linear-gradient(180deg,#eef5fb 0%,var(--bg) 24rem);line-height:1.62}
+    .shell{width:min(960px,calc(100% - 32px));margin:auto}header{padding:28px 0 12px}
+    .brand{display:inline-flex;align-items:center;gap:10px;color:var(--navy);text-decoration:none;font-weight:800;letter-spacing:.08em}
+    .mark{width:34px;height:34px;border-radius:12px;background:linear-gradient(145deg,var(--navy),var(--navy2));display:grid;place-items:center;color:white;font-weight:900}
+    main{padding:18px 0 64px}.hero{background:linear-gradient(145deg,var(--navy),#234c73);color:#fff;border-radius:26px;padding:clamp(28px,6vw,54px);box-shadow:0 22px 60px rgba(8,49,91,.18)}
+    .eyebrow{margin:0 0 12px;color:#d8e8f5;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.11em}
+    h1{margin:0;font-size:clamp(2rem,5vw,3.25rem);line-height:1.08;letter-spacing:-.035em}.lead{max-width:760px;margin:20px 0 0;color:#e6eef5;font-size:1.05rem}
+    .updated{margin-top:16px;font-size:.9rem;color:#cbdbe8}.card{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:clamp(22px,4vw,32px);margin-top:18px;box-shadow:0 9px 30px rgba(16,24,40,.05)}
+    h2{margin:0 0 12px;color:var(--navy);font-size:1.32rem}p{margin:0 0 14px}ul{margin:10px 0;padding-left:1.35rem}li{margin:7px 0}
+    .notice{border-left:5px solid var(--coral);background:#fff8f7}a{color:var(--navy);font-weight:650}footer{padding:0 0 42px;color:var(--muted);font-size:.9rem}
+  </style>
+</head>
+<body>
+<div class="shell">
+<header><a class="brand" href="/"><span class="mark">S</span><span>SCUBASEEK</span></a></header>
+<main>
+<section class="hero">
+<p class="eyebrow">Condizioni di utilizzo</p>
+<h1>Termini di servizio</h1>
+<p class="lead">Questi Termini disciplinano l'accesso e l'utilizzo di Scubaseek da parte di subacquei, diving center, associazioni sportive dilettantistiche e altri soggetti autorizzati.</p>
+<p class="updated">Ultimo aggiornamento: 30 agosto 2026</p>
+</section>
+<section class="card">
+<h2>1. TITOLARE DEL SERVIZIO</h2>
+<p>Scubaseek è gestita da:</p>
+<p>SCUBASEEK SOCIETÀ A RESPONSABILITÀ LIMITATA SEMPLIFICATA Via Francesco Menzio 30 Roma (RM) P. IVA / C.F. 18615641000</p>
+<p>Email: <a href="mailto:support@scubaseek.it">support@scubaseek.it</a> PEC: <a href="mailto:scubaseek@legalmail.it">scubaseek@legalmail.it</a></p>
+</section>
+<section class="card">
+<h2>2. OGGETTO DEL SERVIZIO</h2>
+<p>Scubaseek è una piattaforma digitale dedicata al mondo della subacquea che mette in relazione subacquei, diving center, associazioni sportive dilettantistiche (ASD) e altri soggetti autorizzati a utilizzare le funzioni della piattaforma.</p>
+<p>Scubaseek fornisce strumenti digitali per, tra l&#x27;altro:</p>
+<ul>
+<li>creare e gestire un profilo utente o organizzazione;</li>
+<li>consultare siti d&#x27;immersione, diving center, ASD e attività;</li>
+<li>inviare e gestire richieste di prenotazione;</li>
+<li>organizzare partecipanti, attività e liste operative/barca;</li>
+<li>gestire informazioni relative a brevetti, attrezzatura, noleggi e profilo subacqueo;</li>
+<li>consentire comunicazioni e notifiche operative;</li>
+<li>utilizzare funzioni community e contenuti multimediali, quando disponibili;</li>
+<li>supportare le attività gestionali dei diving center e delle ASD.</li>
+</ul>
+<p>Scubaseek fornisce l&#x27;infrastruttura tecnologica della piattaforma. Salvo ove espressamente indicato, non organizza direttamente le immersioni e non sostituisce il diving center, l&#x27;ASD, l&#x27;istruttore, la guida o altro soggetto responsabile dell&#x27;attività.</p>
+</section>
+<section class="card">
+<h2>3. ACCETTAZIONE DEI TERMINI</h2>
+<p>L&#x27;accesso e l&#x27;utilizzo di Scubaseek comportano l&#x27;accettazione dei presenti Termini di Servizio.</p>
+<p>L&#x27;utente deve utilizzare la piattaforma nel rispetto della legge applicabile, dei presenti Termini e delle eventuali condizioni operative comunicate dall&#x27;organizzazione con cui interagisce.</p>
+<p>Chi utilizza Scubaseek per conto di un diving center, ASD o altra organizzazione dichiara di essere autorizzato a operare per conto di tale soggetto nell&#x27;ambito delle funzioni utilizzate.</p>
+</section>
+<section class="card">
+<h2>4. ACCOUNT E CREDENZIALI</h2>
+<p>Per accedere ad alcune funzioni è necessario creare un account.</p>
+<p>L&#x27;utente si impegna a:</p>
+<ul>
+<li>fornire informazioni corrette, complete e aggiornate;</li>
+<li>mantenere riservate le proprie credenziali;</li>
+<li>non cedere o condividere l&#x27;account in modo improprio;</li>
+<li>comunicare tempestivamente eventuali accessi non autorizzati o problemi di sicurezza;</li>
+<li>aggiornare le informazioni quando non sono più corrette.</li>
+</ul>
+<p>L&#x27;utente è responsabile delle attività effettuate tramite il proprio account, salvo utilizzi non autorizzati non imputabili all&#x27;utente.</p>
+<p>Scubaseek può limitare, sospendere o disabilitare un account in caso di violazione dei presenti Termini, uso illecito o fraudolento, rischio per la sicurezza della piattaforma o degli altri utenti, oppure quando ciò sia necessario per adempiere a obblighi di legge.</p>
+</section>
+<section class="card">
+<h2>5. UTENTI MINORENNI</h2>
+<p>L&#x27;utilizzo della piattaforma da parte di minorenni è consentito solo nei casi e con le autorizzazioni richieste dalla normativa applicabile e dalle regole dell&#x27;organizzazione che eroga l&#x27;attività.</p>
+<p>Scubaseek non sostituisce le verifiche sull&#x27;età, sul consenso dei genitori o di chi esercita la responsabilità genitoriale, né gli ulteriori requisiti che devono essere verificati dal soggetto organizzatore dell&#x27;attività.</p>
+</section>
+<section class="card notice">
+<h2>6. PRENOTAZIONI E RAPPORTO CON DIVING CENTER E ASD</h2>
+<p>Le richieste effettuate tramite Scubaseek sono trasmesse al diving center, ASD o altra organizzazione che gestisce l&#x27;attività.</p>
+<p>L&#x27;invio di una richiesta non equivale automaticamente alla conferma dell&#x27;attività. La disponibilità e la conferma restano soggette alla gestione e all&#x27;accettazione dell&#x27;organizzazione interessata.</p>
+<p>Il diving center o la ASD è responsabile delle informazioni relative alle proprie attività, tra cui, a titolo esemplificativo:</p>
+<ul>
+<li>data, orario e luogo;</li>
+<li>disponibilità e capacità;</li>
+<li>requisiti di partecipazione;</li>
+<li>livello o brevetti richiesti;</li>
+<li>prezzo, ove indicato;</li>
+<li>attrezzatura e servizi inclusi o esclusi;</li>
+<li>condizioni di cancellazione;</li>
+<li>eventuali requisiti assicurativi o documentali.</li>
+</ul>
+<p>Salvo ove espressamente previsto diversamente, il rapporto relativo all&#x27;effettiva erogazione dell&#x27;immersione o dell&#x27;attività è tra l&#x27;utente e l&#x27;organizzazione che la eroga. Scubaseek resta il fornitore della piattaforma tecnologica.</p>
+</section>
+<section class="card">
+<h2>7. PREZZI, PAGAMENTI E CANCELLAZIONI</h2>
+<p>Nella versione attuale della piattaforma, Scubaseek può mostrare prezzi o altre informazioni economiche inserite dalle organizzazioni, ma non gestisce direttamente il pagamento dell&#x27;attività subacquea attraverso l&#x27;app.</p>
+<p>Eventuali pagamenti, rimborsi, caparre, penali e condizioni economiche sono quindi regolati direttamente tra l&#x27;utente e l&#x27;organizzazione interessata, secondo le condizioni comunicate da quest&#x27;ultima e la normativa applicabile.</p>
+<p>Le funzioni di cancellazione presenti in Scubaseek consentono di trasmettere o registrare una richiesta o uno stato operativo. Esse non determinano automaticamente un diritto al rimborso, che dipende dal rapporto tra utente e organizzazione e dalle norme applicabili.</p>
+<p>Qualora Scubaseek introduca in futuro sistemi di pagamento o servizi economici ulteriori, i presenti Termini potranno essere aggiornati e potranno essere previste condizioni specifiche.</p>
+</section>
+<section class="card">
+<h2>8. RESPONSABILITÀ DELLE ORGANIZZAZIONI</h2>
+<p>I diving center, le ASD e gli altri soggetti che pubblicano o gestiscono attività tramite Scubaseek sono responsabili, per quanto di propria competenza:</p>
+<ul>
+<li>della correttezza e dell&#x27;aggiornamento delle informazioni pubblicate;</li>
+<li>dell&#x27;organizzazione e dell&#x27;esecuzione delle attività;</li>
+<li>del personale, delle guide, degli istruttori e delle altre figure impiegate;</li>
+<li>delle attrezzature e dei mezzi utilizzati;</li>
+<li>delle autorizzazioni, coperture e requisiti richiesti dalla normativa applicabile;</li>
+<li>della valutazione dei requisiti dei partecipanti;</li>
+<li>delle procedure di sicurezza;</li>
+<li>delle proprie condizioni economiche e di cancellazione.</li>
+</ul>
+<p>Scubaseek non assume il ruolo di organizzatore dell&#x27;attività per il solo fatto che l&#x27;attività sia pubblicata, prenotata o gestita tramite la piattaforma.</p>
+</section>
+<section class="card notice">
+<h2>9. RESPONSABILITÀ DEL SUBACQUEO E SICUREZZA</h2>
+<p>Le immersioni e le attività subacquee comportano rischi intrinseci.</p>
+<p>L&#x27;utente deve:</p>
+<ul>
+<li>fornire informazioni corrette sulle proprie certificazioni ed esperienza;</li>
+<li>rispettare i requisiti previsti dall&#x27;organizzazione;</li>
+<li>seguire le istruzioni delle persone responsabili dell&#x27;attività;</li>
+<li>utilizzare attrezzatura adeguata e conforme alle indicazioni ricevute;</li>
+<li>valutare responsabilmente la propria capacità di partecipare all&#x27;attività e adempiere agli eventuali obblighi o verifiche richiesti dalla legge o dall&#x27;organizzazione.</li>
+</ul>
+<p>Scubaseek non fornisce valutazioni mediche, certificazioni di idoneità, consulenza sanitaria o determinazioni sulla sicurezza individuale della partecipazione a una specifica immersione.</p>
+<p>Le informazioni presenti nella piattaforma non sostituiscono il giudizio professionale e operativo del diving center, dell&#x27;istruttore, della guida o degli altri soggetti responsabili dell&#x27;attività.</p>
+</section>
+<section class="card">
+<h2>10. EMERGENZE</h2>
+<p>Scubaseek non è un servizio di emergenza e non deve essere utilizzata come unico strumento per richiedere assistenza in situazioni di pericolo.</p>
+<p>In caso di emergenza, l&#x27;utente deve contattare i servizi di emergenza competenti e seguire le procedure previste dall&#x27;organizzazione responsabile dell&#x27;attività.</p>
+</section>
+<section class="card">
+<h2>11. CONTENUTI DEGLI UTENTI E DELLE ORGANIZZAZIONI</h2>
+<p>Scubaseek può consentire il caricamento o la pubblicazione di fotografie, avatar, descrizioni, informazioni di profilo, messaggi e altri contenuti.</p>
+<p>Chi carica un contenuto dichiara di avere il diritto di utilizzarlo e di non violare diritti di terzi, norme di legge o i presenti Termini.</p>
+<p>La titolarità dei contenuti resta al soggetto che li ha caricati. L&#x27;utente concede a Scubaseek, per il tempo necessario alla fornitura del servizio, una licenza non esclusiva e limitata a ospitare, memorizzare, riprodurre tecnicamente, adattare ai formati della piattaforma e mostrare tali contenuti esclusivamente nella misura necessaria a erogare le funzioni richieste.</p>
+<p>Scubaseek può rimuovere o limitare contenuti manifestamente illeciti, lesivi, fraudolenti, tecnicamente dannosi o contrari ai presenti Termini, nel rispetto della normativa applicabile.</p>
+</section>
+<section class="card">
+<h2>12. UTILIZZI VIETATI</h2>
+<p>È vietato utilizzare Scubaseek per:</p>
+<ul>
+<li>attività illecite, fraudolente o ingannevoli;</li>
+<li>impersonare altre persone o organizzazioni;</li>
+<li>pubblicare informazioni consapevolmente false o fuorvianti;</li>
+<li>violare diritti di proprietà intellettuale, riservatezza o altri diritti di terzi;</li>
+<li>introdurre malware, codice dannoso o tentare accessi non autorizzati;</li>
+<li>interferire con il funzionamento, la sicurezza o l&#x27;integrità della piattaforma;</li>
+<li>estrarre, copiare o riutilizzare sistematicamente dati o contenuti senza autorizzazione;</li>
+<li>utilizzare sistemi automatizzati in modo incompatibile con il normale funzionamento del servizio;</li>
+<li>molestare, minacciare o danneggiare altri utenti o organizzazioni.</li>
+</ul>
+</section>
+<section class="card">
+<h2>13. PROPRIETÀ INTELLETTUALE DI SCUBASEEK</h2>
+<p>Salvo i contenuti appartenenti agli utenti, alle organizzazioni o a terzi, il software, il codice, la struttura della piattaforma, il design, le interfacce, i testi originali, i marchi, i loghi, gli elementi grafici, le banche dati e gli altri materiali di Scubaseek sono protetti dalla normativa applicabile in materia di proprietà intellettuale e industriale.</p>
+<p>L&#x27;utilizzo della piattaforma non trasferisce all&#x27;utente alcun diritto di proprietà su tali elementi.</p>
+<p>È vietata la copia, modifica, distribuzione, decompilazione, reverse engineering o utilizzazione non autorizzata del software e dei materiali di Scubaseek, salvo quanto espressamente consentito dalla legge.</p>
+</section>
+<section class="card">
+<h2>14. SERVIZI E CONTENUTI DI TERZI</h2>
+<p>Alcune funzioni di Scubaseek possono dipendere da servizi o infrastrutture di terzi, inclusi servizi di autenticazione, hosting, notifiche, mappe e sistemi operativi mobili.</p>
+<p>L&#x27;utilizzo di tali servizi può essere soggetto anche alle condizioni dei rispettivi fornitori.</p>
+<p>Scubaseek non è responsabile di interruzioni o malfunzionamenti direttamente imputabili a servizi esterni sui quali non esercita un controllo ragionevole, fatti salvi i diritti inderogabili riconosciuti dalla legge.</p>
+</section>
+<section class="card">
+<h2>15. DISPONIBILITÀ E MODIFICHE DEL SERVIZIO</h2>
+<p>Scubaseek è una piattaforma in evoluzione.</p>
+<p>Funzioni, interfacce e modalità operative possono essere aggiornate, modificate, sostituite o rimosse per ragioni tecniche, di sicurezza, normative o di sviluppo del servizio.</p>
+<p>Scubaseek può effettuare interventi di manutenzione e non garantisce che il servizio sia disponibile senza interruzioni o errori in ogni momento.</p>
+<p>Quando una modifica incide in modo sostanziale sui diritti o sugli obblighi degli utenti, Scubaseek adotterà le modalità informative richieste dalla normativa applicabile.</p>
+</section>
+<section class="card notice">
+<h2>16. LIMITAZIONE DI RESPONSABILITÀ</h2>
+<p>Nei limiti consentiti dalla legge, Scubaseek risponde esclusivamente dei danni direttamente imputabili alla propria attività di fornitore della piattaforma.</p>
+<p>Scubaseek non risponde, salvo i casi in cui la legge disponga diversamente, di danni o disservizi derivanti da:</p>
+<ul>
+<li>attività subacquee organizzate o svolte da terzi;</li>
+<li>decisioni operative di diving center, ASD, guide, istruttori o partecipanti;</li>
+<li>informazioni errate o incomplete fornite da utenti o organizzazioni;</li>
+<li>mancata disponibilità, cancellazione o modifica di un&#x27;attività da parte dell&#x27;organizzatore;</li>
+<li>rapporti economici direttamente intercorrenti tra utenti e organizzazioni;</li>
+<li>uso della piattaforma contrario ai presenti Termini.</li>
+</ul>
+<p>Nulla nei presenti Termini esclude o limita responsabilità che non possano essere escluse o limitate ai sensi della legge applicabile.</p>
+</section>
+<section class="card">
+<h2>17. SOSPENSIONE, CHIUSURA ED ELIMINAZIONE DELL&#x27;ACCOUNT</h2>
+<p>L&#x27;utente può cessare di utilizzare Scubaseek e richiedere l&#x27;eliminazione del proprio account.</p>
+<p>La richiesta può essere effettuata:</p>
+<ul>
+<li>tramite le funzioni disponibili nell&#x27;app;</li>
+<li>tramite la pagina <a href="https://legal.scubaseek.it/">https://legal.scubaseek.it/</a>;</li>
+<li>scrivendo a <a href="mailto:support@scubaseek.it">support@scubaseek.it</a>.</li>
+</ul>
+<p>Scubaseek può sospendere o chiudere account nei casi previsti dai presenti Termini o dalla legge.</p>
+<p>L&#x27;eliminazione dell&#x27;account e il trattamento dei dati personali sono disciplinati anche dalla Privacy Policy disponibile all&#x27;indirizzo:</p>
+<p><a href="<a href="https://legal.scubaseek.it/">https://legal.scubaseek.it/</a>privacy/"><a href="https://legal.scubaseek.it/">https://legal.scubaseek.it/</a>privacy/</a></p>
+</section>
+<section class="card">
+<h2>18. PRIVACY</h2>
+<p>Il trattamento dei dati personali è disciplinato dalla Privacy Policy di Scubaseek:</p>
+<p><a href="<a href="https://legal.scubaseek.it/">https://legal.scubaseek.it/</a>privacy/"><a href="https://legal.scubaseek.it/">https://legal.scubaseek.it/</a>privacy/</a></p>
+<p>Le impostazioni di privacy disponibili nell&#x27;app consentono inoltre all&#x27;utente di gestire, nei casi previsti, la visibilità o la condivisione di alcune categorie di informazioni.</p>
+</section>
+<section class="card">
+<h2>19. MODIFICHE AI TERMINI</h2>
+<p>Scubaseek può aggiornare i presenti Termini per adeguarli a modifiche normative, tecniche, organizzative o funzionali.</p>
+<p>La versione aggiornata riporterà la data dell&#x27;ultimo aggiornamento.</p>
+<p>Quando richiesto dalla legge o quando le modifiche incidono in modo sostanziale sul rapporto con l&#x27;utente, verrà fornita un&#x27;informazione adeguata e, se necessario, sarà richiesta una nuova accettazione.</p>
+</section>
+<section class="card">
+<h2>20. LEGGE APPLICABILE E FORO COMPETENTE</h2>
+<p>I presenti Termini sono disciplinati dalla legge italiana.</p>
+<p>Per gli utenti qualificabili come consumatori restano impregiudicati tutti i diritti inderogabili riconosciuti dalla normativa a tutela dei consumatori, compresa la competenza del foro prevista dalla legge.</p>
+<p>Per gli altri utenti, la competenza territoriale è determinata secondo le norme applicabili e gli eventuali accordi validamente conclusi tra le parti.</p>
+</section>
+<section class="card">
+<h2>21. CONTATTI</h2>
+<p>Per informazioni o assistenza relative ai presenti Termini:</p>
+<p>SCUBASEEK SOCIETÀ A RESPONSABILITÀ LIMITATA SEMPLIFICATA Via Francesco Menzio 30 Roma (RM) P. IVA / C.F. 18615641000</p>
+<p>Email: <a href="mailto:support@scubaseek.it">support@scubaseek.it</a> PEC: <a href="mailto:scubaseek@legalmail.it">scubaseek@legalmail.it</a></p>
+</section>
+</main>
+<footer><strong>Scubaseek</strong> — Home of Divers<br>SCUBASEEK SOCIETÀ A RESPONSABILITÀ LIMITATA SEMPLIFICATA · P. IVA / C.F. 18615641000</footer>
+</div>
+</body>
+</html>
